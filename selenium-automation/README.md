@@ -23,5 +23,5 @@ Make sure the following are installed on your system:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/selenium-login-script.git
+   git clone https://github.com/sosa8174/selenium-.git
    cd selenium-login-script
